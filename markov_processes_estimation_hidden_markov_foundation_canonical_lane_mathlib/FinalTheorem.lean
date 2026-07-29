@@ -1,0 +1,9 @@
+import markov_processes_estimation_hidden_markov_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace markov_processes_estimation_hidden_markov_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end markov_processes_estimation_hidden_markov_foundation_canonical_lane_mathlib
+end HautevilleHouse
